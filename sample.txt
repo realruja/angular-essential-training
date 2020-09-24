@@ -8,3 +8,6 @@ return categories.join(', ');
 
 
 [\\w\\-\\s\\/]+
+
+
+el verano
